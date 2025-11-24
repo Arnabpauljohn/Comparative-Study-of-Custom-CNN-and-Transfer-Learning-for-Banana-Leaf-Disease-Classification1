@@ -1,0 +1,2 @@
+1.Banana Leaf Disease Classification.ipynb: Contains all project code including data preprocessing, augmentation, model training (Custom CNN & VGG16), and evaluation. 
+2.requirements.txt: Lists all library dependencies needed to run the notebook. 
